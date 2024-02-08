@@ -8,17 +8,10 @@ the world of Data Science and business analytics.
 
 ## Education
 
-| Years       | Degree                             | Institution                   |
-|-------------|------------------------------------|-------------------------------|
-| 2023 -  | MSc Information and Data Science (120 ECTS) | HSLU 	|				       		
-| 2017 - 2018  | MSc Architecture (60 ECTS)	| Universidad de Zaragoza |
-| 2016 - 2017 | Master-level exchange (60 ECTS)    | University of Idaho 	
-| 2012 - 2017 | BSc Architecture (300 ECTS)        | Universidad de Zaragoza       |
-
-2023 -  | MSc Information and Data Science (120 ECTS) | HSLU			       		
-2017 - 2018  | MSc Architecture (60 ECTS)	| Universidad de Zaragoza
-2016 - 2017 | Master-level exchange (60 ECTS)    | University of Idaho 	
-2012 - 2017 | BSc Architecture (300 ECTS)        | Universidad de Zaragoza
+2023 -  | MSc Information and Data Science (120 ECTS) | HSLU, Switzerland			       		
+2017 - 2018  | MSc Architecture (60 ECTS)	| Universidad de Zaragoza, Spain
+2016 - 2017 | Master-level exchange (60 ECTS)    | University of Idaho, USA 	
+2012 - 2017 | BSc Architecture (300 ECTS)        | Universidad de Zaragoza, Spain
 
 
 ## Technical Skills
