@@ -41,7 +41,7 @@ Highly skilled in graphic design, manipualtion and generation of various image a
 #### BIM and CAD Software
 BIM modeling in ArchiCAD
 Drafting in AutoCAD
-3D NURBS modeling in Rhinoceros and parametric modelling
+3D NURBS modeling in Rhinoceros and parametric modeling
 
 ***
 
