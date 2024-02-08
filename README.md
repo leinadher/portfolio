@@ -14,7 +14,7 @@ PyCharm, Visual Studio and Jupyter Notebooks
 Data science libraries: NumPy, Pandas, etc.
 
 #### R, RStudio
-Statistical Analysis, Hypothesis Testing, Regression Models
+Statistical Analysis, Hypothesis Testing, Regression Models, etc. 
 Explorative Data Science and Visualization
 Data science packages: Tidyverse, ggplot2, etc.
 Reporting in RMarkdown
@@ -34,7 +34,7 @@ HSLU Data analytics visualization project
 ## Graphic and Drafting Technical Skills
 
 #### Adobe Creative Suite
-Highly skilled in graphic design, manipualtion and generation of various image and video media assets. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
+Highly skilled in graphic design, manipulation and generation of various image and video media assets. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
 #### BIM and CAD Software
 BIM modeling in ArchiCAD
