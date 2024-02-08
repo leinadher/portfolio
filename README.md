@@ -1,9 +1,3 @@
----
-layout: default
-title: My Portfolio
-font-family: "Your Preferred Font", sans-serif
----
-
 Experienced Master Architect and Data Science student (HSLU), proficient in Architecture and Planning, with 5 years of practical experience in the field. I am eagerly expanding my expertise into analytics and Data Science. A problem-solving enthusiast, I thrive on unraveling intricate challenges and learning cutting-edge tools, and am eager to embark myself on a new professional adventure in the world of Data Science and business analytics.
 
 ## Education
