@@ -7,7 +7,7 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
 2016 - 2017 | Master-level exchange (60 ECTS)    | University of Idaho, USA 	
 2012 - 2017 | BSc Architecture (300 ECTS)        | Universidad de Zaragoza, Spain
 
-## Data Science Technical Skills
+## Technical Skills
 
 #### Python and data science libraries
 PyCharm, Visual Studio and Jupyter Notebooks
@@ -29,21 +29,11 @@ HSLU Data analytics visualization project
   
 #### Familiar with frontend development in HTML and CSS
 
-***
-
-## Graphic and Drafting Technical Skills
-
-#### Adobe Creative Suite
-Highly skilled in graphic design, manipulation and generation of various image and video media assets. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
+Also skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
-#### BIM and CAD Software
-BIM modeling in ArchiCAD
-Drafting in AutoCAD
-3D NURBS modeling in Rhinoceros and parametric modeling
-
 ***
 
-## Experience
+## Projects
 
-- Something 1
-- Something 2
+- ### 2024 - [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
+  Submission for R-Bootcamp course, consisting of an analyis of Inside Airbnb data and demographics of Barcelona.
