@@ -10,22 +10,22 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
 ## Technical Skills
 
 #### Python and data science libraries
-`PyCharm`, `Visual Studio` and `Jupyter Notebooks`
-Data science libraries: `NumPy`, `Pandas`, etc.
+`PyCharm`, `Visual Studio`, `Jupyter Notebooks`
+Data science libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`
 
 #### R, RStudio
-Statistical Analysis, Hypothesis Testing, Regression Models, etc. 
+Statistical Analysis, Hypothesis Testing, Regression Models, etc
 Explorative Data Science and Visualization
-Data science packages: `Tidyverse`, `ggplot2`, etc.
+Data science packages: `Tidyverse`, `ggplot2`, `Plotly`
 Reporting in `RMarkdown`
       
 #### App prototyping in visual programming environment
       
-#### Introductory level to Tableau
+#### Introductory level to Tableau and Power BI
 
 #### Introductory level of `SQL`
   
-#### Familiar with frontend development in `HTML` and `CSS`
+#### Familiar with `HTML`, `CSS` and `Markdown`
 
 Also skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
@@ -34,4 +34,4 @@ Also skilled in production of graphics and architectural drawings. See my latest
 ## Projects
 
 - ### 2024 - [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
-  Submission for R-Bootcamp course, consisting of an analyis of Inside Airbnb data and demographics of Barcelona.
+  Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
