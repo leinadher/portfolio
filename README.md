@@ -11,6 +11,7 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
 
 #### Python and data science libraries
 `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
+
 Data science libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`
 
 #### R, RStudio
@@ -33,5 +34,5 @@ Also skilled in production of graphics and architectural drawings. See my latest
 
 ## Projects
 
-- ### 2024 - [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
+- ### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
   Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
