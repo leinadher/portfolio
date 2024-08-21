@@ -12,12 +12,15 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
 #### Python and data science libraries
 `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
 
-Data science libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`
+Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`
 
 #### R, RStudio
-Statistical Analysis, Hypothesis Testing, Machine Learning Methods
+Statistical Analysis, Hypothesis Testing, Machine Learning Algorithms
 Data science packages: `Tidyverse`, `ggplot2`, `Plotly`
 Reporting in `RMarkdown`
+
+#### Business Intelligence
+`Tableau`,  `PowerBI`, `SAS`
       
 #### App prototyping in visual programming environment
       
@@ -37,3 +40,5 @@ Also skilled in production of graphics and architectural drawings. See my latest
   Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
 - ### [Machine Learning Methods: a look into the dog register of Zürich](https://leinadher.shinyapps.io/ml1_final_dogs/)
   An interactive report showcasing exploration and machine learning model implementations on open data from the dog register in the city of Zurich.
+- ### [BulkPix](https://github.com/leinadher/BulkPix)
+  A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
