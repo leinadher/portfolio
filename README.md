@@ -38,8 +38,8 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 - ### [BulkPix](https://github.com/leinadher/BulkPix)
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
   
-- ### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
-  Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
-  
 - ### [Machine Learning Methods: a look into the dog register of Zürich](https://leinadher.shinyapps.io/ml1_final_dogs/)
   An interactive report showcasing exploration and machine learning model implementations on open data from the dog register in the city of Zurich.
+  
+- ### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
+  Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
