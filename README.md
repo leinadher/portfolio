@@ -12,28 +12,24 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
 
 ## Technical Skills
 
-#### Python and data science libraries
-`PyCharm`, `Visual Studio`, `Jupyter Notebooks`
+### Python and Data Science Libraries
+- Development Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
+- Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`...
 
-Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`
+### R and RStudio
+- Key Skills: Statistical Analysis, Hypothesis Testing, Machine Learning Algorithms
+- Data Science Packages: `Tidyverse`, `ggplot2`, `Plotly`...
+- Reporting: `RMarkdown`
 
-#### R, RStudio
-Statistical Analysis, Hypothesis Testing, Machine Learning Algorithms
-Data science packages: `Tidyverse`, `ggplot2`, `Plotly`
-Reporting in `RMarkdown`
+### Database Management
+- `MySQL`, managing databases with `MySQL Workbench`
 
-#### Business Intelligence
-`Tableau`,  `PowerBI`, `SAS`
-      
-#### App prototyping in visual programming environment
-      
-#### Introductory level to Tableau and Power BI
+### Business Intelligence
+- Tools: `Tableau`, `Power BI`, `SAS Viya`
 
-#### Fluent in `MySQL` and managing databases in MySQL Workbench
-  
-#### Familiar with `HTML`, `CSS` and `Markdown`
-
-Also skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
+### Additional Skills
+- Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
+- Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
 ***
 
