@@ -10,7 +10,7 @@ With a knack for creating visually compelling designs and a love for nature spor
 
 - 🎓 **MSc Information and Data Science (120 ECTS)**
   
-  2023 - 2025, HSLU, Switzerland
+  2023 - 2025, HSLU Luzern, Switzerland
 
 - 🏛️ **MSc Architecture (60 ECTS)**
   
