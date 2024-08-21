@@ -33,7 +33,7 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 
 ## 💻 GitHub Projects
 
-- 🖼### 🖼️ [BulkPix](https://github.com/leinadher/BulkPix)
+- ### 🖼️ [BulkPix](https://github.com/leinadher/BulkPix)
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
   
 - ### 🐕 [Machine Learning Methods: a look into the dog register of Zürich](https://leinadher.shinyapps.io/ml1_final_dogs/)
