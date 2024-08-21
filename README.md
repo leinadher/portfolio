@@ -3,15 +3,19 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 ## 🎓 Education
 
 - 🎓 MSc Information and Data Science (120 ECTS)
+  
   2023 - 2025, HSLU, Switzerland
 
 - 🏛️ MSc Architecture (60 ECTS)
+  
   2017 - 2018, EINA Zaragoza, Spain
 
 - ✈️ Graduate Exchange Program (60 ECTS)
+  
   2016 - 2017, University of Idaho, USA
 
 - 🏗️ BSc Architecture (300 ECTS)
+  
   2012 - 2017, EINA Zaragoza, Spain
 
 ---
