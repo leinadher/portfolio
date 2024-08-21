@@ -10,6 +10,8 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 
 2012 - 2017 | BSc Architecture (300 ECTS)        | EINA Zaragoza, Spain
 
+---
+
 ## Technical Skills
 
 ### Python and Data Science Libraries
@@ -31,7 +33,7 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 - Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
 - Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
-***
+---
 
 ## GitHub Projects
 
@@ -40,6 +42,9 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
   
 - ### [Machine Learning Methods: a look into the dog register of Zürich](https://leinadher.shinyapps.io/ml1_final_dogs/)
   An interactive report showcasing exploration and machine learning model implementations on open data from the dog register in the city of Zurich.
+
+- ### RAG Chatbot
+  A python RAG chatbot application based on the LlamaIndex framework, augmented with university-relevant data and documentation, to provide assistance to students.
   
 - ### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
   Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
