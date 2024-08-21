@@ -1,4 +1,8 @@
-I'm a versatile professional with an MSc in Architecture and currently pursuing an MSc in Information and Data Science. With 5 years of experience in architecture and planning, I'm now diving into data science, machine learning, and analytics. I thrive on solving complex problems and mastering new tools, all while working in English, German, or Spanish. With a knack for creating visually compelling designs and a love for nature sports and architectural heritage, I’m ready to embark on a new adventure in the world of data science and business analytics. 🚀🧩🎨
+I'm a versatile professional with an MSc in Architecture and currently pursuing an MSc in Information and Data Science.
+
+With 5 years of experience in architecture and planning, I'm now diving into data science, machine learning, and analytics. I thrive on solving complex problems and mastering new tools, all while working in English, German, or Spanish. 
+
+With a knack for creating visually compelling designs and a love for nature sports and architectural heritage, I’m ready to embark on a new adventure in the world of data science and business analytics.
 
 ---
 
@@ -60,4 +64,4 @@ I'm a versatile professional with an MSc in Architecture and currently pursuing 
   A RAG chatbot application based on the Python LlamaIndex framework, augmented with school-relevant data and documentation, to provide assistance to students.
   
 - ### 🏙️ [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
-  Submission for R-Bootcamp course, consisting of an analyis of [Inside Airbnb](http://insideairbnb.com/) data and demographics of Barcelona.
+  Analyis and reporting of Airbnb data and demographics of the city of Barcelona, in light of mass tourism paradigms and the city's straiend housing market.
