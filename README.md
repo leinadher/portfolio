@@ -1,4 +1,6 @@
-Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years of practical experience in architecture and planning. I am eagerly expanding my expertise into and data science, analytics and software development. A problem-solving enthusiast, I thrive on unraveling intricate challenges and learning cutting-edge tools, and am eager to embark myself on a new professional adventure in the world of data science and business analytics.
+I'm a versatile professional with an MSc in Architecture and currently pursuing an MSc in Information and Data Science. With 5 years of experience in architecture and planning, I'm now diving into data science, machine learning, and analytics. I thrive on solving complex problems and mastering new tools, all while working in English, German, or Spanish. With a knack for creating visually compelling designs and a love for nature sports and architectural heritage, I’m ready to embark on a new adventure in the world of data science and business analytics. 🚀🧩🎨
+
+---
 
 ## 🎓 Education
 
