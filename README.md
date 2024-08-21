@@ -1,7 +1,7 @@
 Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years of practical experience in architecture and planning. I am eagerly expanding my expertise into and data science, analytics and software development. A problem-solving enthusiast, I thrive on unraveling intricate challenges and learning cutting-edge tools, and am eager to embark myself on a new professional adventure in the world of data science and business analytics.
 
 ## 🎓 Education
-- 🎓 2023 - 2025 | MSc Information and Data Science (120 ECTS), HSLU, Switzerland
+- 🎓 [2023, 2025] | MSc Information and Data Science (120 ECTS), HSLU, Switzerland
 - 🏛️ 2017 - 2018 | MSc Architecture (60 ECTS), EINA Zaragoza, Spain
 - ✈️ 2016 - 2017 | Graduate exchange (60 ECTS), University of Idaho, USA
 - 🏗️ 2012 - 2017 | BSc Architecture (300 ECTS), EINA Zaragoza, Spain
