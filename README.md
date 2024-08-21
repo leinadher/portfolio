@@ -1,23 +1,23 @@
-Experienced Master Architect and Data Science student (HSLU), proficient in Architecture and Planning, with 5 years of practical experience in the field. I am eagerly expanding my expertise into analytics and Data Science. A problem-solving enthusiast, I thrive on unraveling intricate challenges and learning cutting-edge tools, and am eager to embark myself on a new professional adventure in the world of Data Science and business analytics.
+Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years of practical experience in architecture and planning. I am eagerly expanding my expertise into and data science, analytics and software development. A problem-solving enthusiast, I thrive on unraveling intricate challenges and learning cutting-edge tools, and am eager to embark myself on a new professional adventure in the world of data science and business analytics.
 
 ## Education
 
 2023 -  | MSc Information and Data Science (120 ECTS) | HSLU, Switzerland		
 
-2017 - 2018  | MSc Architecture (60 ECTS)	| Universidad de Zaragoza, Spain
+2017 - 2018  | MSc Architecture (60 ECTS)	| EINA Zaragoza, Spain
 
-2016 - 2017 | Master-level exchange (60 ECTS)    | University of Idaho, USA 	
+2016 - 2017 | Graduate exchange (60 ECTS)    | University of Idaho, USA 	
 
-2012 - 2017 | BSc Architecture (300 ECTS)        | Universidad de Zaragoza, Spain
+2012 - 2017 | BSc Architecture (300 ECTS)        | EINA Zaragoza, Spain
 
 ## Technical Skills
 
 ### Python and Data Science Libraries
-- Development Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
+- Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
 - Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`...
 
 ### R and RStudio
-- Key Skills: Statistical Analysis, Hypothesis Testing, Machine Learning Algorithms
+- Skills: Statistical Analysis, Hypothesis Testing, Machine Learning
 - Data Science Packages: `Tidyverse`, `ggplot2`, `Plotly`...
 - Reporting: `RMarkdown`
 
@@ -33,7 +33,7 @@ Experienced Master Architect and Data Science student (HSLU), proficient in Arch
       
 ***
 
-## Projects
+## GitHub Projects
 
 - ### [BulkPix](https://github.com/leinadher/BulkPix)
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
