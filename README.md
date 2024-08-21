@@ -60,7 +60,7 @@ With a knack for creating visually compelling designs and a love for nature spor
 - ### 🐕 [Machine Learning Methods: a look into the dog register of Zürich](https://leinadher.shinyapps.io/ml1_final_dogs/)
   An interactive report showcasing exploration and machine learning model implementations on open data from the dog register in the city of Zurich.
 
-- ### 🤖 RAG Chatbot
+- ### 🤖 [RAG Chatbot](https://github.com/leinadher/GEN02.F24_Project)
   A RAG chatbot application based on the Python LlamaIndex framework, augmented with school-relevant data and documentation, to provide assistance to students.
   
 - ### 🏙️ [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
