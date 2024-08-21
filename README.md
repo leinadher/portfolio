@@ -37,7 +37,7 @@ With a knack for creating visually compelling designs and a love for nature spor
 - 📦 Packages: `Tidyverse`, `ggplot2`, `Plotly`...
 - 📝 Reporting: `RMarkdown`
 
-### 🗄Database Management
+### Database Management
 - 🗃️ `MySQL`, managing databases with `MySQL Workbench`
 
 ### Business Intelligence
