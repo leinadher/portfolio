@@ -2,19 +2,19 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 
 ## 🎓 Education
 
-- 🎓 MSc Information and Data Science (120 ECTS)
+- 🎓 **MSc Information and Data Science (120 ECTS)**
   
   2023 - 2025, HSLU, Switzerland
 
-- 🏛️ MSc Architecture (60 ECTS)
+- 🏛️ **MSc Architecture (60 ECTS)**
   
   2017 - 2018, EINA Zaragoza, Spain
 
-- ✈️ Graduate Exchange Program (60 ECTS)
+- ✈️ **Graduate Exchange Program (60 ECTS)**
   
   2016 - 2017, University of Idaho, USA
 
-- 🏗️ BSc Architecture (300 ECTS)
+- 🏗️ **BSc Architecture (300 ECTS)**
   
   2012 - 2017, EINA Zaragoza, Spain
 
@@ -22,28 +22,28 @@ Experienced MSc Architect and Data Scientist (Hochschule Luzern), with 5 years o
 
 ## 🛠️ Technical Skills
 
-### 🐍 Python and Data Science Libraries
+### Python and Data Science Libraries
 - 🖥️ Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
 - 📚 Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`...
 
-### 📊 R and RStudio
+### R and RStudio
 - 📈 Skills: Statistical Analysis, Hypothesis Testing, Machine Learning
 - 📦 Packages: `Tidyverse`, `ggplot2`, `Plotly`...
 - 📝 Reporting: `RMarkdown`
 
-### 🗄️ Database Management
+### 🗄Database Management
 - 🗃️ `MySQL`, managing databases with `MySQL Workbench`
 
-### 📈 Business Intelligence
-- 🔍 Tools: `Tableau`, `Power BI`, `SAS Viya`
+### Business Intelligence
+- 📈 Tools: `Tableau`, `Power BI`, `SAS Viya`
 
-### 🌐 Additional Skills
+### Additional Skills
 - 💻 Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
 - 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.scopearch.ch/).
       
 ---
 
-## 💻 GitHub Projects
+## 🚀 GitHub Projects
 
 - ### 🖼️ [BulkPix](https://github.com/leinadher/BulkPix)
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
