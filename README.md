@@ -64,4 +64,4 @@ With a knack for creating visually compelling designs and a love for nature spor
   A RAG chatbot application based on the Python LlamaIndex framework, augmented with school-relevant data and documentation, to provide assistance to students.
   
 - ### 🏙️ [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
-  Analyis and reporting of Airbnb data and demographics of the city of Barcelona, in light of mass tourism paradigms and the city's straiend housing market.
+  Analyis and reporting of Airbnb data and demographics of the city of Barcelona, in light of mass tourism paradigms and the city's strained housing market.
