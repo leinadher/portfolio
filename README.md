@@ -1,6 +1,6 @@
-I'm a versatile professional with an MSc in Architecture and currently pursuing an MSc in Information and Data Science.
+Hey there! I'm an architect who’s swapping blueprints for data points, with an MSc in Architecture and currently pursuing an MSc in Information and Data Science.
 
-With 5 years of experience in architecture and planning, I'm now diving into data science, machine learning, and analytics. I thrive on solving complex problems and mastering new tools, all while working in English, German, or Spanish. 
+I’ve so far spent 5 years building structures (not data frameworks!) and am now excited to build insights and valuable solutions through data, machine learning and analytics. 
 
 With a knack for creating visually compelling designs and a love for nature sports and architectural heritage, I’m ready to embark on a new adventure in the world of data science and business analytics.
 
