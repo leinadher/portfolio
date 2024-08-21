@@ -45,7 +45,7 @@ With a knack for creating visually compelling designs and a love for nature spor
 
 ### Additional Skills
 - 💻 Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
-- 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance]([https://www.scopearch.ch/](https://www.behance.net/leinadher)).
+- 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.behance.net/leinadher).
       
 ---
 
