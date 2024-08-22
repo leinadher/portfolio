@@ -30,7 +30,7 @@ With a knack for creating visually compelling designs and a love for nature spor
 
 ### Python and Data Science Libraries
 - 🖥️ Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
-- 📚 Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `dotenv`, `LlamaIndex`...
+- 📚 Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `LlamaIndex`...
 
 ### R and RStudio
 - 📈 Skills: Statistical Analysis, Hypothesis Testing, Machine Learning
