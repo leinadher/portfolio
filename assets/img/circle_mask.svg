@@ -4,5 +4,5 @@
             <circle cx="100" cy="100" r="100" />
         </clipPath>
     </defs>
-    <image href="photo_me.jpg" width="200" height="200" clip-path="url(#circleMask)" />
+    <image href="/assets/img/photo_me.jpg" width="200" height="200" clip-path="url(#circleMask)" />
 </svg>
