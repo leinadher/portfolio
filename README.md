@@ -1,8 +1,9 @@
-Hey there! I'm an architect who’s swapping blueprints for data points, with an MSc in Architecture and currently pursuing an MSc in Information and Data Science.
 
-I’ve so far spent 5 years building structures (not data frameworks!) and am now excited to build insights and valuable solutions through data, machine learning and analytics. 
+I’m a Data Scientist with a solid foundation in architecture, holding an MSc in Architecture and currently pursuing an MSc in Information and Data Science.
 
-With a knack for creating visually compelling designs and a love for nature sports and architectural heritage, I’m ready to embark on a new adventure in the world of data science and business analytics.
+For the past 5 years, I’ve integrated technical expertise with creative design in developing detailed architectural plans and overseeing construction processes, developing a keen eye for detail and a strong grasp of technical complexities. Now, I’m excited to transition those skills into the realm of data science, where I aim to build data-driven insights and innovative solutions through machine learning and analytics.
+
+With a passion for creating visually compelling designs and a deep appreciation for nature sports and architectural heritage, I’m eager to apply my unique blend of creativity and technical expertise to the dynamic world of data science and business analytics.
 
 ---
 
@@ -45,6 +46,8 @@ With a knack for creating visually compelling designs and a love for nature spor
 
 ### Additional Skills
 - 💻 Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
+- 🏗️ BIM and CAD: `ArchiCAD`, `Rhinoceros`, `ArchiCAD`
+- 🌎 GIS: `QGIS`  
 - 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.behance.net/leinadher).
       
 ---
