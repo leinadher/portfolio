@@ -47,7 +47,8 @@ With a passion for creating visually compelling designs and a deep appreciation 
 ### Additional Skills
 - 💻 Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
 - 🏗️ BIM and CAD: `ArchiCAD`, `Rhinoceros`, `ArchiCAD`
-- 🌎 GIS: `QGIS`  
+- 🌎 GIS: `QGIS`
+- 🖼️ Creative Suite: `Adobe Photoshop`, `Adobe InDesign`, `Adobe Premiere`, `Adobe After Effects`...  
 - 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.behance.net/leinadher).
       
 ---
