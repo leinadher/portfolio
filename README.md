@@ -55,6 +55,9 @@ With a passion for creating visually compelling designs and a deep appreciation 
 
 ## 🚀 GitHub Projects
 
+- ### 🚗 [Barcelona StreetWatch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
+  An ELT process and data analysis project dealing with traffic accident data of the city of Barcelona, with Python and MongoDB architecture.
+
 - ### 🖼️ [BulkPix](https://github.com/leinadher/BulkPix)
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
 
