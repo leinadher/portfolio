@@ -55,7 +55,7 @@ With a passion for creating visually compelling designs and a deep appreciation 
 
 ## 🚀 GitHub Projects
 
-- ### 🚗 [Barcelona StreetWatch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
+- ### 🚗 [Barcelona StreetWatch](https://github.com/leinadher/Barcelona-StreetWatch/tree/main)
   An ELT process and data analysis project dealing with traffic accident data of the city of Barcelona, with Python and MongoDB architecture.
 
 - ### 🖼️ [BulkPix](https://github.com/leinadher/BulkPix)
