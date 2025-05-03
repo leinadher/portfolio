@@ -55,7 +55,7 @@ With a passion for creating visually compelling designs and a deep appreciation 
 
 ## 🚀 GitHub Projects
 
-- ### 🌍 [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
+- ### ⚡ [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
   A machine learning-powered geothermal potential assessment tool for the Canton of Zürich.
   
 - ### 🚗 [Barcelona StreetWatch](https://github.com/leinadher/Barcelona-StreetWatch/tree/main)
