@@ -1,36 +1,51 @@
-
 # Hi, I'm Daniel
 
 I'm a data analytics consultant with a background in architecture and real estate.
 
-I work mainly with data engineering, analytics, automation and AI, often around real estate, sustainability and spatial data. Outside of work, I like building small projects to explore new tools, datasets and ideas for my creative outlets.
+I spend most of my time somewhere between data engineering, analytics, automation, AI, and maps.
 
-## Projects
+I'm especially interested in real estate, sustainability, spatial data, and turning messy real-world problems into things you can query, model, map, or automate.
+
+Outside of work, I build projects to explore new tools, interesting datasets, and ideas that probably didn't need to exist — but now do.
+
+## Some of my projects
 
 ### [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
-My thesis project from my Master's in Data Science, a machine learning and geospatial analysis tool for geothermal potential assessment in the Canton of Zürich.
+
+My Master's thesis in Data Science, combining machine learning and geospatial analysis to assess geothermal potential across the Canton of Zürich. Put together into a nice web application for easy interface and use.
 
 ### Amadeus and the Scent of Spring
-A personal game development project built in Godot. Still in development and not published.
+
+A personal game development project built in Godot.
+
+Still in development, news to follow soon!"
 
 ### [Barcelona StreetWatch](https://github.com/leinadher/Barcelona-StreetWatch)
-A small data analysis school project, an ELT and data analysis project exploring traffic accident data from Barcelona.
+
+An ELT and data analysis project exploring traffic accident data from Barcelona, from raw public data to transformation and analysis.
 
 ### [Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
-Also a school project, exploring web scraping to build an end-to-end ETL pipeline from collection, data transformation, to storage and analysis.
+
+A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
 
 ### [Zürich Dog Register](https://leinadher.shinyapps.io/ml1_final_dogs/)
-A school project for Machine Learning, an interactive R project exploring open data from Zürich's dog registry with visualization and machine learning.
+
+Because Zürich publishes dog registry data, and naturally the next step was to apply machine learning to it.
+
+An interactive R/Shiny project exploring Zürich's dog registry through visualization and machine learning.
 
 ### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
-Another small data analysis school project, exploring Airbnb and demographic data in Barcelona in the context of tourism and housing.
+
+Airbnb, demographics, tourism, housing, and Barcelona.
+
+An exploratory analysis looking at how these datasets intersect and what they can tell us about (over)tourism and housing patterns in the city.
 
 ## Tools & Technologies
 
-I mostly work with Python, SQL, R, Power BI, Tableau, MongoDB, Microsoft Fabric, Azure, Databricks, Git and GitHub.
+I mostly work with Python, SQL, R, Power BI, Tableau, MongoDB, Microsoft Fabric, Azure, Databricks, Git, and GitHub.
 
-Depending on the project, I also use tools such as QGIS, LlamaIndex, HTML/CSS and Godot.
+Depending on the project, I also use QGIS, LlamaIndex, HTML/CSS, and of course, Godot.
 
-My architecture background still influences the kind of projects I enjoy: spatial data, sustainability, visualization, real-world systems and anything that combines technical problem-solving with design.
+I came to data through architecture, so I still gravitate toward maps, cities, buildings, sustainability, visualization, and messy real-world systems — especially when technical problem-solving and design overlap.
 
 [GitHub](https://github.com/leinadher) | [Behance](https://www.behance.net/leinadher)
