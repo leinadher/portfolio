@@ -37,7 +37,7 @@ Because Zürich publishes dog registry data, and naturally the next step was to 
 
 An interactive R/Shiny project exploring Zürich's dog registry through visualization and machine learning.
 
-### [Barcelona Airbnb Insights](https://github.com/leinadher/RB01_AirBnB_TwoCities)
+### [Barcelona Airbnb Insights](https://leinadher.github.io/RB01_Airbnb_Barcelona/Barcelona-AirBnB-Insights.html)
 
 Airbnb, demographics, tourism, housing, and Barcelona.
 
