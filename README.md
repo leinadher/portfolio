@@ -19,17 +19,15 @@ Put together into a nice Streamlit application for an easy and open interface an
 
 ### Amadeus and the Scent of Spring
 
-A personal game development project built in Godot, where I am tackling all the different creative aspects of the game myself, from architecture and code to graphics, art, sound and music.
+My current game project, following the story of the small, furry Amadeus as he sniffs his way through a mysteriously and unusually long winter.
+
+Built in Godot, I am tackling all the different creative aspects of the game myself, from architecture, UI, code to graphics, art, sound and music.
 
 Still in development, news to follow soon!
 
-### [Barcelona StreetWatch](https://github.com/leinadher/Barcelona-StreetWatch)
+### [Barcelona Street Watch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
 
 An ELT and data analysis project exploring traffic accident data from Barcelona, from raw public data to transformation and analysis.
-
-### [Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
-
-A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
 
 ### [Zürich Dog Register](https://leinadher.shinyapps.io/ml1_final_dogs/)
 
@@ -42,6 +40,10 @@ An interactive R/Shiny project exploring Zürich's dog registry through visualiz
 Airbnb, demographics, tourism, housing, and Barcelona.
 
 An exploratory analysis looking at how these datasets intersect and what they can tell us about (over)tourism and housing in the city.
+
+### [Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
+
+A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
 
 ## Tools I use
 
