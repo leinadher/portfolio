@@ -45,6 +45,8 @@ Airbnb, demographics, tourism, housing, and Barcelona.
 
 An exploratory analysis looking at how these datasets intersect and what they can tell us about (over)tourism and housing in the city.
 
+![Barcelona Airbnb Insights](/portfolio/assets/img/barcelona_airbnb.jpeg)
+
 ### [Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
 
 A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
