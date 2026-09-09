@@ -1,4 +1,3 @@
-
 # Hi, I'm Daniel
 
 I'm a data analytics consultant with a background in architecture and real estate.
@@ -15,7 +14,7 @@ Outside of work, I build projects to explore new tools, interesting datasets and
 
 My master thesis project, combining machine learning and geospatial analysis to assess geothermal potential across the Canton of Zürich.
 
-Put together into a nice Streamlit application for an easy and open interface and use.
+Put together into a nice `Streamlit` application for an easy and open interface and use.
 
 ![GeoWatt ZH screenshot](/portfolio/assets/img/geowatt.jpeg)
 
@@ -23,7 +22,7 @@ Put together into a nice Streamlit application for an easy and open interface an
 
 My current game project, following the story of the small, furry Amadeus as he sniffs his way through a mysteriously and unusually long winter.
 
-Built in Godot, I am tackling all the different creative aspects of the game myself, from architecture, UI, code to graphics, art, sound and music.
+Built in `Godot`, I am tackling all the different creative aspects of the game myself, from architecture, UI, code to graphics, art, sound and music.
 
 Still in development, news to follow soon!
 
@@ -31,7 +30,7 @@ Still in development, news to follow soon!
 
 ### [Barcelona Street Watch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
 
-An ELT and data analysis project exploring traffic accident data from Barcelona, from raw public data to transformation and analysis.
+An `ELT` and data analysis project exploring traffic accident data from Barcelona, from raw public data to transformation and analysis.
 
 ![Barcelona Street Watch](/portfolio/assets/img/barcelona_traffic.jpeg)
 
@@ -39,7 +38,7 @@ An ELT and data analysis project exploring traffic accident data from Barcelona,
 
 Because the city of Zürich publishes yearly dog registry data, naturally the next step was to apply machine learning to it.
 
-An interactive R/Shiny project exploring Zürich's dog registry through visualization and various machine learning methods.
+An interactive `R`/`Shiny` project exploring Zürich's dog registry through visualization and various machine learning methods.
 
 ![Zürich Dogs](/portfolio/assets/img/dogs_zurich.jpeg)
 
@@ -53,15 +52,15 @@ An exploratory analysis looking at how these datasets intersect and what they ca
 
 ### [Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
 
-A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
+A web scraping and `ETL` project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
 
 ![Phone Web Scraping](/portfolio/assets/img/etl_phones.jpeg)
 
 ## Tools I use
 
-I mostly work with Python, SQL, R, Power BI, Tableau, MongoDB, Microsoft Fabric, Azure, Databricks, Git, and GitHub.
+I mostly work with `Python`, `SQL`, `R`, `Power BI`, `Tableau`, `MongoDB`, `Microsoft Fabric`, `Azure`, `Databricks`, `Git`, and `GitHub`.
 
-Depending on the project, I also use QGIS, LlamaIndex, HTML/CSS, and of course, Godot.
+Depending on the project, I also use `QGIS`, `LlamaIndex`, `HTML`/`CSS`, and of course, `Godot`.
 
 I came to data through architecture (actual buildings, not IT!), so I still gravitate toward maps, cities, buildings, sustainability, visualization, and messy real-world systems, especially when technical problem-solving and design overlap.
 
