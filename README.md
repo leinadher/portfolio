@@ -35,9 +35,11 @@ An ELT and data analysis project exploring traffic accident data from Barcelona,
 
 ### [Zürich Dog Register](https://leinadher.shinyapps.io/ml1_final_dogs/)
 
-Because Zürich publishes dog registry data, and naturally the next step was to apply machine learning to it.
+Because the city of Zürich publishes yearly dog registry data, naturally the next step was to apply machine learning to it.
 
-An interactive R/Shiny project exploring Zürich's dog registry through visualization and machine learning.
+An interactive R/Shiny project exploring Zürich's dog registry through visualization and various machine learning methods.
+
+![Zürich Dogs](/portfolio/assets/img/dogs_zurich.jpg)
 
 ### [Barcelona Airbnb Insights](https://leinadher.github.io/RB01_Airbnb_Barcelona/Barcelona-AirBnB-Insights.html)
 
