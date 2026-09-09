@@ -11,9 +11,9 @@ Outside of work, I build projects to explore new tools, interesting datasets and
 
 ## Some of my projects
 
-### [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
-
 ![GeoWatt ZH screenshot](/portfolio/assets/img/geowatt.jpeg)
+
+### [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
 
 My master thesis project, combining machine learning and geospatial analysis to assess geothermal potential across the Canton of Zürich.
 
@@ -27,9 +27,9 @@ Built in Godot, I am tackling all the different creative aspects of the game mys
 
 Still in development, news to follow soon!
 
-### [Barcelona Street Watch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
-
 ![Barcelona Street Watch](/portfolio/assets/img/barcelona_traffic.jpeg)
+
+### [Barcelona Street Watch](https://leinadher.github.io/Barcelona-StreetWatch/project/project-traffic_accidents.html)
 
 An ELT and data analysis project exploring traffic accident data from Barcelona, from raw public data to transformation and analysis.
 
