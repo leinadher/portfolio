@@ -233,3 +233,24 @@ hr {
     margin-top: 2.2rem;
   }
 }
+
+/* Hide redundant site title */
+header h1 {
+  display: none;
+}
+
+/* Center sidebar logo */
+header img {
+  display: block;
+  margin: 0 auto 1.2rem auto;
+}
+
+/* Remove Minimal theme GitHub project link */
+header .view {
+  display: none;
+}
+
+/* Remove theme/footer attribution */
+footer {
+  display: none;
+}
