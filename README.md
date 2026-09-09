@@ -67,7 +67,7 @@ I'm also skilled in a variety of graphic design tools, and enjoy producing video
   </a>
 
   <a href="https://www.youtube.com/@leinadher">
-    <img src="/portfolio/assets/icons/youtube-round.svg" alt="" />
+    <img src="/portfolio/assets/icons/youtube.svg" alt="" />
     YouTube
   </a>
 </div>
