@@ -16,7 +16,9 @@
   --background: #ffffff;
 }
 
-/* Base typography */
+/* ----------------------------------------------------------
+   Base typography
+   ---------------------------------------------------------- */
 
 body {
   background: var(--background);
@@ -39,8 +41,6 @@ p {
 strong {
   color: #202428;
 }
-
-/* Keep monospace where it actually belongs */
 
 code,
 pre {
@@ -70,24 +70,35 @@ section {
    Sidebar
    ---------------------------------------------------------- */
 
+/* Hide redundant site title */
+
 header h1 {
-  margin-bottom: 0.3rem;
-  font-size: 1.9rem;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
+  display: none;
 }
 
-header h1 a {
-  color: var(--text);
+/* Center sidebar logo */
+
+header img {
+  display: block;
+  margin: 0 auto 1.2rem auto;
 }
 
 header p {
   color: var(--muted);
   line-height: 1.5;
+  white-space: pre-line;
 }
 
-header img {
-  margin-bottom: 1rem;
+/* Remove Minimal theme GitHub project link */
+
+header .view {
+  display: none;
+}
+
+/* Remove theme/footer attribution */
+
+footer {
+  display: none;
 }
 
 /* ----------------------------------------------------------
@@ -130,16 +141,21 @@ h2 + h3 {
    Links
    ---------------------------------------------------------- */
 
-a {
+a,
+a:visited {
   color: var(--accent);
   font-weight: 500;
   text-decoration: none;
+  transition: color 0.15s ease;
 }
 
 a:hover,
-a:focus {
+a:focus,
+a:visited:hover,
+a:visited:focus {
   color: var(--accent-dark);
-  text-decoration: underline;
+  font-weight: 500;
+  text-decoration: none;
 }
 
 /* ----------------------------------------------------------
@@ -190,6 +206,32 @@ hr {
 }
 
 /* ----------------------------------------------------------
+   Social links
+   ---------------------------------------------------------- */
+
+.social-links {
+  display: flex;
+  gap: 1.4rem;
+  margin-top: 2rem;
+  align-items: center;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 500;
+}
+
+.social-links img {
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+/* ----------------------------------------------------------
    Responsive layout
    ---------------------------------------------------------- */
 
@@ -232,51 +274,4 @@ hr {
   h3 {
     margin-top: 2.2rem;
   }
-}
-
-/* Hide redundant site title */
-header h1 {
-  display: none;
-}
-
-/* Center sidebar logo */
-header img {
-  display: block;
-  margin: 0 auto 1.2rem auto;
-}
-
-/* Remove Minimal theme GitHub project link */
-header .view {
-  display: none;
-}
-
-/* Remove theme/footer attribution */
-footer {
-  display: none;
-}
-
-.social-links {
-  display: flex;
-  gap: 1.4rem;
-  margin-top: 2rem;
-  align-items: center;
-}
-
-.social-links a {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-  font-weight: 500;
-}
-
-.social-links img {
-  width: 24px;
-  height: 24px;
-  margin: 0;
-  border: 0;
-  border-radius: 0;
-}
-
-header p {
-  white-space: pre-line;
 }
