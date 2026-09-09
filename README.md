@@ -53,6 +53,8 @@ An exploratory analysis looking at how these datasets intersect and what they ca
 
 A web scraping and ETL project for turning the wonderfully inconsistent world of online smartphone listings into structured data for storage and analysis.
 
+![Phone Web Scraping](/portfolio/assets/img/etl_phones.jpeg)
+
 ## Tools I use
 
 I mostly work with Python, SQL, R, Power BI, Tableau, MongoDB, Microsoft Fabric, Azure, Databricks, Git, and GitHub.
