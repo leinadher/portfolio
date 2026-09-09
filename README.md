@@ -55,4 +55,6 @@ I came to data through architecture (actual buildings, not IT!), so I still grav
 
 I'm also skilled in a variety of graphic design tools, and enjoy producing videos, editing photos, 3D rendering and other creative projects.
 
-[GitHub](https://github.com/leinadher) | [Behance](https://www.behance.net/leinadher)
+<div class="social-links"> <a href="https://github.com/leinadher"> <img src="/portfolio/assets/icons/github.svg" alt="" /> GitHub </a>
+
+<a href="https://www.behance.net/leinadher"> <img src="/portfolio/assets/icons/behance.svg" alt="" /> Behance </a> </div>
