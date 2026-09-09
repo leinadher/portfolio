@@ -254,3 +254,25 @@ header .view {
 footer {
   display: none;
 }
+
+.social-links {
+  display: flex;
+  gap: 1.4rem;
+  margin-top: 2rem;
+  align-items: center;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 500;
+}
+
+.social-links img {
+  width: 19px;
+  height: 19px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}
