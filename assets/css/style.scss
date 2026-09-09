@@ -1,0 +1,235 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ----------------------------------------------------------
+   Portfolio overrides
+   ---------------------------------------------------------- */
+
+:root {
+  --accent: #2f8f86;
+  --accent-dark: #246f68;
+  --text: #2b3035;
+  --muted: #6c737a;
+  --border: #e5e7e9;
+  --background: #ffffff;
+}
+
+/* Base typography */
+
+body {
+  background: var(--background);
+  color: var(--text);
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+p {
+  margin: 0 0 1.25rem;
+}
+
+strong {
+  color: #202428;
+}
+
+/* Keep monospace where it actually belongs */
+
+code,
+pre {
+  font-family: "Consolas", "Liberation Mono", monospace;
+}
+
+/* ----------------------------------------------------------
+   Page layout
+   ---------------------------------------------------------- */
+
+.wrapper {
+  width: 1080px;
+  max-width: 92%;
+  margin: 0 auto;
+}
+
+header {
+  width: 250px;
+}
+
+section {
+  width: 760px;
+  padding-bottom: 60px;
+}
+
+/* ----------------------------------------------------------
+   Sidebar
+   ---------------------------------------------------------- */
+
+header h1 {
+  margin-bottom: 0.3rem;
+  font-size: 1.9rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+header h1 a {
+  color: var(--text);
+}
+
+header p {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+header img {
+  margin-bottom: 1rem;
+}
+
+/* ----------------------------------------------------------
+   Headings
+   ---------------------------------------------------------- */
+
+h1,
+h2,
+h3 {
+  color: var(--text);
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.45rem;
+
+  font-size: 1.55rem;
+  letter-spacing: -0.015em;
+
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  margin-top: 2.7rem;
+  margin-bottom: 0.7rem;
+
+  font-size: 1.22rem;
+  line-height: 1.35;
+}
+
+/* First project/title after a section heading needs less space */
+
+h2 + h3 {
+  margin-top: 1.6rem;
+}
+
+/* ----------------------------------------------------------
+   Links
+   ---------------------------------------------------------- */
+
+a {
+  color: var(--accent);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: var(--accent-dark);
+  text-decoration: underline;
+}
+
+/* ----------------------------------------------------------
+   Project images
+   ---------------------------------------------------------- */
+
+/*
+   Normal Markdown:
+
+   ![GeoWatt screenshot](/assets/img/geowatt.jpg)
+
+   will automatically receive this treatment when placed
+   inside the main portfolio content.
+*/
+
+section img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+
+  margin: 1.4rem 0 1.8rem;
+
+  border: 1px solid var(--border);
+  border-radius: 5px;
+}
+
+/* ----------------------------------------------------------
+   Lists
+   ---------------------------------------------------------- */
+
+ul,
+ol {
+  padding-left: 1.4rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+/* ----------------------------------------------------------
+   Horizontal separators
+   ---------------------------------------------------------- */
+
+hr {
+  margin: 3rem 0;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
+
+/* ----------------------------------------------------------
+   Responsive layout
+   ---------------------------------------------------------- */
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+    max-width: 90%;
+  }
+
+  header,
+  section {
+    width: auto;
+    float: none;
+    position: static;
+  }
+
+  header {
+    padding-right: 0;
+  }
+
+  section {
+    border-top: 1px solid var(--border);
+    padding-top: 2rem;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    font-size: 15px;
+  }
+
+  .wrapper {
+    max-width: 88%;
+  }
+
+  h2 {
+    margin-top: 2.8rem;
+  }
+
+  h3 {
+    margin-top: 2.2rem;
+  }
+}
