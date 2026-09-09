@@ -39,7 +39,7 @@ Because the city of Zürich publishes yearly dog registry data, naturally the ne
 
 An interactive R/Shiny project exploring Zürich's dog registry through visualization and various machine learning methods.
 
-![Zürich Dogs](/portfolio/assets/img/dogs_zurich.jpg)
+![Zürich Dogs](/portfolio/assets/img/dogs_zurich.jpeg)
 
 ### [Barcelona Airbnb Insights](https://leinadher.github.io/RB01_Airbnb_Barcelona/Barcelona-AirBnB-Insights.html)
 
