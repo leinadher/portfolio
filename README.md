@@ -11,7 +11,7 @@ Outside of work, I build projects to explore new tools, interesting datasets and
 
 ## Some of my projects
 
-### [GeoWatt ZH](https://github.com/leinadher/GeoWattZH)
+### [GeoWatt ZH](https://geowatt-zh.streamlit.app/)
 
 My master thesis project, combining machine learning and geospatial analysis to assess geothermal potential across the Canton of Zürich.
 
