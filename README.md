@@ -61,6 +61,11 @@ I'm also skilled in a variety of graphic design tools, and enjoy producing video
     GitHub
   </a>
 
+  <a href="https://www.linkedin.com/in/leinadher/">
+    <img src="/portfolio/assets/icons/linkedin.svg" alt="" />
+    LinkedIn
+  </a>
+
   <a href="https://www.behance.net/leinadher">
     <img src="/portfolio/assets/icons/behance.svg" alt="" />
     Behance
