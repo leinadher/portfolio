@@ -1,6 +1,9 @@
 title: Daniel Herrera
-font-family: "Consolas"
-logo: /assets/img/circle_mask_64.svg
-description: MSc Architect, Data Scientist (HSLU)
+
+description: |
+  MSc Architect (EINA)
+  MSc Data Scientist (HSLU)
+  Data Analytics & Game Development
+
 show_downloads: false
 theme: jekyll-theme-minimal
