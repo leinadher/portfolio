@@ -276,7 +276,7 @@ section img {
    Responsive layout
    ---------------------------------------------------------- */
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1120px) {
   .wrapper {
     width: auto;
     max-width: 90%;
@@ -291,6 +291,7 @@ section img {
 
   header {
     padding-right: 0;
+    margin-bottom: 2rem;
   }
 
   section {
