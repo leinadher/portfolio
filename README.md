@@ -20,7 +20,7 @@ Put together into a nice `Streamlit` application for an easy and open interface 
 
 ### Amadeus and the Scent of Spring
 
-My current game project, following the story of the small, furry Amadeus as he sniffs his way through a mysteriously and unusually long winter.
+My current game project, following the story of the small, furry Amadeus as he sniffs his way through a mysterious and unusually long winter.
 
 Built in `Godot`, I am tackling all the different creative aspects of the game myself, from architecture, UI, code to graphics, art, sound and music.
 
