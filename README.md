@@ -6,9 +6,9 @@ I spend most of my time between data engineering, analytics, automation, and map
 
 I'm especially interested in real estate, sustainability, spatial data, and turning messy real-world problems into things you can query, model, map, or automate.
 
-Outside of work, I build projects to explore new tools, interesting datasets and ideas.
+Outside of work, I build projects to explore new tools, interesting datasets and ideas. This portfolio provides a selection of my side and university coding projects.
 
-## Some of my projects
+## Personal and academic projects
 
 ### [GeoWatt ZH](https://geowatt-zh.streamlit.app/)
 
@@ -82,7 +82,7 @@ I'm also skilled in a variety of graphic design tools, and enjoy producing video
     Behance
   </a>
 
-  <a href="https://www.youtube.com/@leinadher">
+  <a href="https://www.youtube.com/@the-gorkmeister">
     <img src="/portfolio/assets/icons/youtube.svg" alt="" />
     YouTube
   </a>
